@@ -47,7 +47,7 @@
     "test": {
       "formation": {
         "test": {
-          "quanity": 1,
+          "quantity": 1,
           "size": "Standard-1x"
         }
       },

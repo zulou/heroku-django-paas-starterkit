@@ -13,7 +13,7 @@
     },
     "SECRET_TOKEN": {
       "generator": "secret"
-    },
+    }
   },
   "formation": {
     "web": {

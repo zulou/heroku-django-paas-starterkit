@@ -27,10 +27,8 @@
   },
   "stack": "heroku-16",
   "addons": [
-    "heroku-postgresql",
-    "sendgrid",
-    "papertrail",
-    "sentry"
+    "heroku-postgresql"
+    
   ],
   "buildpacks": [
     {
